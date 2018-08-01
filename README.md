@@ -4,4 +4,4 @@ J'animerai un atelier sur les images responsives le 6 octobre à Paris Web 2018 
 
 Ce dépôt permet de collecter les exemples et questions des futurs participants à l'atelier, sous forme d'issues.
 
-Si vous souffrez en essayant de mettre en place les images responsives, si `srcset`, `sizes` et/ou `<picture>` vous donnent des boutons, c’est le moment de me donner de la matière pour mon atelier, [en créant une issue décrivant votre souci/besoin](/nhoizey/pw2018-responsive-images/issues/new) !
+Si vous souffrez en essayant de mettre en place les images responsives, si `srcset`, `sizes` et/ou `<picture>` vous donnent des boutons, c’est le moment de me donner de la matière pour mon atelier, [en créant une issue décrivant votre souci/besoin](https://github.com/nhoizey/pw2018-responsive-images/issues/new) !
